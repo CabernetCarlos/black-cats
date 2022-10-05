@@ -6,6 +6,11 @@ body {
 margin: 0px;
 }
 
+.body-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .menu-container {
     background-color: rgb(189, 127, 255);
     display: flex;
